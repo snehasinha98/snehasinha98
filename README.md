@@ -57,11 +57,6 @@ I specialize in:
 
 ---
 
-## 📈 GitHub Stats
-![Sneha's GitHub stats](https://github-readme-stats.vercel.app/api?username=snehasinha5&show_icons=true&theme=default)
-
----
-
 ## 🔗 Connect With Me
 - 📧 sneha.sinha9135@gmail.com  
 - 💼 https://www.linkedin.com/in/snehasinha5  
