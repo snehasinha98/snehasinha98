@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sneha Sinha  
 
-📊 **Data Analyst | SQL • Python • Power BI | Turning Data into Business Insights**  
+📊 **Data Analyst | SQL • Python • Power BI | Turning Data into Business Insights**  | Open to New Opportunities
 
 ---
 
